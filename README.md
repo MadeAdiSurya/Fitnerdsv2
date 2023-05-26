@@ -1,1 +1,9 @@
 # Fitnerdsv2
+FitNerds merupakan sebuah aplikasi home workout yang berperan sebagai panduan bagi masyarakat Indonesia dalam melakukan workout. Tidak hanya itu, FitNerds dapat mengawasi perkembangan aktivitas dan hasil home workout sehingga home workout yang dilakukan dapat lebih terjaga dan terarah,
+
+FitNerds memiliki visi, yaitu mewujudkan masyarakat Indonesia yang sadar akan pentingnya olahraga untuk menjaga kebugaran jasmani agar tubuh tetap sehat dan kuat. Untuk mencapai visi tersebut, FitNerds juga memiliki misi, yaitu mendorong dan memfasilitasi masyarakat Indonesia untuk menjalani gaya hidup sehat dengan rajin berolahraga, terutama melalui home workout, untuk meningkatkan kebugaran jasmani.
+Artinya, FitNerds harus menjadi fasilitator bagi pelaku home workout dengan menyediakan fasilitas yang cukup seperti panduan gerakan dan laporan proses.
+
+Dalam panduan atau exercise guide yang dimiliki oleh Fitnerds, tentu bukan hanya satu gerakan saja yang tersedia. Terdapat tingkat kesulitan yang berbeda dengan masing-masing tingkat kesulitan tersebut memiliki berbagai jenis latihan yang sama. Lalu, masing-masing jenis latihan memiliki berbagai gerakan yang berbeda satu sama lain. Gerakan yang ada pada exercise guide juga tidak asal dipilih, melainkan telah dipilih melalui riset dan pengamatan tentang gerakan yang paling cocok dan efektif untuk meningkatkan kebugaran jasmani sesuai dengan jenis latihannya.
+
+Fitnerds juga memiliki fitur progress report atau report yang berguna untuk melaporkan proses serta hasil latihan untuk setiap gerakan yang telah dilakukan. Lebih tepatnya, aplikasi menampilkan apa saja gerakan yang telah dilakukan, berapa kalori yang telah dibakar, dan total waktu melakukan seluruh gerakan. Laporan terhadap ketiga hal tersebut dibuat untuk tiap harinya dan tentu riwayat melakukan latihan berdasarkan waktu bisa diakses sehingga setiap gerakan yang dilakukan dapat dilacak dan dilihat hasilnya dengan mudah.
